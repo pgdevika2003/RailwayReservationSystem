@@ -47,11 +47,11 @@ PAYMENT GATEWAY
 ![Payment](https://github.com/user-attachments/assets/fcf3c710-f20a-44ea-840c-971d809bd19b)
 
 CANCEL TICKET
-![Cancel ticket](https://github.com/user-attachments/assets/ba465090-0103-44a2-a0b8-41808e27d921)
+![Cancel ticket](https://github.com/user-attachments/assets/f34644e9-ac59-410e-a1f9-72d9837a0927)
 
-![Cancel ticket2](https://github.com/user-attachments/assets/0d0fe5e6-dcd9-4a1f-9dc9-ba331c6f5c3c)
+![Cancel ticket2](https://github.com/user-attachments/assets/ba3cf929-4fc2-40d2-8a7b-5f9052e10583)
 
-![Cancel ticket3](https://github.com/user-attachments/assets/1bf106c0-a358-49e3-b38b-c3f5da9bb76c)
+![Cancel ticket3](https://github.com/user-attachments/assets/905c9067-24f0-479c-89ea-8dfa2879fd73)
 
 ADMIN LOGIN
 ![Admin Login](https://github.com/user-attachments/assets/069b6d5e-12fb-4a79-b047-a5fb424fa19c)
