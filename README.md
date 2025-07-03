@@ -54,7 +54,7 @@ CANCEL TICKET
 ![Cancel ticket3](https://github.com/user-attachments/assets/905c9067-24f0-479c-89ea-8dfa2879fd73)
 
 ADMIN LOGIN
-![Admin Login](https://github.com/user-attachments/assets/069b6d5e-12fb-4a79-b047-a5fb424fa19c)
+![Admin Login](https://github.com/user-attachments/assets/34062977-c757-4b6c-a139-b4896998d883)
 
 ADMIN HOME
 ![admin home](https://github.com/user-attachments/assets/ab3b5b7a-a943-4c7b-b624-194c38593427)
